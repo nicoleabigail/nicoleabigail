@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @nicoleabigail
-- 👀 I’m interested in website and data!
-- 🌱 I’m currently learning HTML, CSS, JS, SQL, Python
-- 💞️ I’m looking to collaborate on e-commerce company!
+- 👋 Hi, I’m Nicole Abigail
+- 👀 I’m Computer Science student, focusing in Database
+- 🌱 I’m currently learning HTML, CSS, JS, SQL, Python, and others
+- 💞️ I'm interested in website and data
 - 📫 How to reach me : nicoledanboard@gmail.com
 
 <!---
