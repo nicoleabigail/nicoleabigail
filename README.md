@@ -2,7 +2,7 @@
 - 👀 I’m Computer Science student, focusing in Database
 - 🌱 I’m currently learning HTML, CSS, JS, SQL, Python, and others
 - 💞️ I'm interested in website and data
-- 📫 How to reach me : nicoledanboard@gmail.com
+- 📫 How to reach me : nicoleabigailw@gmail.com
 
 <!---
 nicoleabigail/nicoleabigail is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
